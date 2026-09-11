@@ -1,0 +1,1 @@
+import{_ as e,o as t}from"./index-zmLJeRt2.js";import{t as n}from"./CloseButton-DOC9UbDc.js";var r=t();function i(){let t=e(e=>e.doorPhoto);return(0,r.jsxs)(`div`,{className:`ov door-photo`,children:[(0,r.jsx)(n,{}),(0,r.jsx)(`img`,{src:`/assets/obj2/door-photo-${t}.webp`,alt:[`日常合照`,`睡衣玩偶合照`,`海边度假`][t-1],draggable:!1})]})}export{i as default};
